@@ -1,0 +1,787 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://lnabeautyllc.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://lnabeautyllc.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://lnabeautyllc.com/collections/body-butters.atom"/>
+  <title>LNA Beauty</title>
+  <updated>2021-07-04T19:04:54-05:00</updated>
+  <author>
+    <name>LNA Beauty</name>
+  </author>
+  <entry>
+    <id>https://lnabeautyllc.com/products/6814340251838</id>
+    <published>2021-07-04T19:04:54-05:00</published>
+    <updated>2021-07-04T19:04:54-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://lnabeautyllc.com/products/body-butter-squeeze-tube"/>
+    <title>Body Butter Squeeze Tube</title>
+    <s:type></s:type>
+    <s:vendor>LNA Beauty</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0331/5246/6989/products/B6BD3C8A-4093-46C9-BE54-1854907757C8.png?v=1625440782"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LNA Beauty<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            7.50 - 11.50
+            <a href="https://lnabeautyllc.com/products/body-butter-squeeze-tube">(14 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Tired of sticking your fingers in your container to get your body butter out?  Want to add another measure of sanitary to your skin care WITHOUT adding a preservative chemical?  These tubes are the PERFECT way to do so.  Easy Squeeze with perfect consistency that comes out perfect, and PERFECT for traveling</p>
+<p>All squeeze tubes come in a solid color.</p>
+<p>Choose from fragrance below in the drop down menu.</p>
+<p>These come in 2 sizes</p>
+<p>2oz</p>
+<p>5oz</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>body butters</s:tag>
+    <s:variant>
+      <id>https://lnabeautyllc.com/products/6814340251838</id>
+      <title>2oz / Love Spell</title>
+      <s:price currency="USD">7.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lnabeautyllc.com/products/6814340251838</id>
+      <title>2oz / Coconut Lime</title>
+      <s:price currency="USD">7.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lnabeautyllc.com/products/6814340251838</id>
+      <title>2oz / Fruit Loops</title>
+      <s:price currency="USD">7.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lnabeautyllc.com/products/6814340251838</id>
+      <title>2oz / Hello Sweet Thang</title>
+      <s:price currency="USD">7.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lnabeautyllc.com/products/6814340251838</id>
+      <title>2oz / Hawain Passion Fruit</title>
+      <s:price currency="USD">7.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lnabeautyllc.com/products/6814340251838</id>
+      <title>2oz / Coconut Vanilla</title>
+      <s:price currency="USD">7.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lnabeautyllc.com/products/6814340251838</id>
+      <title>2oz / Eucalyptus</title>
+      <s:price currency="USD">7.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lnabeautyllc.com/products/6814340251838</id>
+      <title>5oz / Love Spell</title>
+      <s:price currency="USD">11.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lnabeautyllc.com/products/6814340251838</id>
+      <title>5oz / Coconut Lime</title>
+      <s:price currency="USD">11.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lnabeautyllc.com/products/6814340251838</id>
+      <title>5oz / Fruit Loops</title>
+      <s:price currency="USD">11.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lnabeautyllc.com/products/6814340251838</id>
+      <title>5oz / Hello Sweet Thang</title>
+      <s:price currency="USD">11.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lnabeautyllc.com/products/6814340251838</id>
+      <title>5oz / Hawain Passion Fruit</title>
+      <s:price currency="USD">11.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lnabeautyllc.com/products/6814340251838</id>
+      <title>5oz / Coconut Vanilla</title>
+      <s:price currency="USD">11.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lnabeautyllc.com/products/6814340251838</id>
+      <title>5oz / Eucalyptus</title>
+      <s:price currency="USD">11.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://lnabeautyllc.com/products/6814329798846</id>
+    <published>2021-07-04T19:04:53-05:00</published>
+    <updated>2021-07-04T19:04:53-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://lnabeautyllc.com/products/eucalyptus-whipped-body-butter"/>
+    <title>Eucalyptus Whipped Body Butter</title>
+    <s:type></s:type>
+    <s:vendor>LNA Beauty</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0331/5246/6989/products/CBA1BC2B-FE87-42FC-A7DC-A5F809B6C8D0.png?v=1625440099"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LNA Beauty<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1.50 - 9.00
+            <a href="https://lnabeautyllc.com/products/eucalyptus-whipped-body-butter">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Bath and Body Works Fragrance</p>
+<p>We also offer our squeeze tube whipped body butters on a separate listing, to avoid having to stick your fingers in the container and dig it out.  Also provides another step of sanitary  :-)</p>
+<p>We offer 4 sizes.  </p>
+<p>.7oz sample</p>
+<p>2oz container</p>
+<p>4 oz container</p>
+<p> </p>
+<div class="co8aDb XcVN5d" aria-level="3" role="heading"><b>Benefits of Body butters include:</b></div>
+<div class="RqBzHd">
+<ul class="i8Z77e">
+<li class="TrT0Xe">Moisturizes skin.</li>
+<li class="TrT0Xe">Forms a protective layer around the skin.</li>
+<li class="TrT0Xe">Reduces Wrinkles.</li>
+<li class="TrT0Xe">Helps soothe skin rashes, sunburn and eczema.</li>
+<li class="TrT0Xe">Contains <b>beneficial</b> antioxidants like vitamin C, E &amp; A.</li>
+<li class="TrT0Xe">Moisture eliminates any sign of dry, chapped skin and leaves skin feeling smooth and renewed.</li>
+</ul>
+</div>
+<p><span style="font-size: small;" size="2">Our body butters go a long ways with a small amount.  We recommend using as soon as you are out of the shower to allow the butters to soak in immediately.</span></p>
+<p><span style="font-size: small;" size="2">Ingredients consist of all organic products as follows:</span></p>
+<p><span style="font-size: small;" size="2">Shea Butter</span></p>
+<p><span style="font-size: small;" size="2">Jojoa Oil</span></p>
+<p><span style="font-size: small;" size="2">Vitamin E</span></p>
+<p><span style="font-size: small;" size="2">ArrowRoot</span></p>
+<p><span style="font-size: small;" size="2">Apricot Kernnel</span></p>
+<p><span style="font-size: small;" size="2">Mica Powder</span></p>
+<p><span style="font-size: small;" size="2">Fragrance Oils</span></p>
+<p>Disclaimer***We suggest always start by using a patch test of our product on your arm in case of a reaction.  We do not recommend putting these products on your face, especially if you have acne prone skin, or sensitive skin.  </p>
+<p>LNA Beauty, LLC is not responsible for any reactions of our product.  Please beaware of all product ingredients that you are using to your own knowledge.  </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>body butter</s:tag>
+    <s:tag>body butters</s:tag>
+    <s:tag>whipped body butter</s:tag>
+    <s:variant>
+      <id>https://lnabeautyllc.com/products/6814329798846</id>
+      <title>.7oz sample</title>
+      <s:price currency="USD">1.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lnabeautyllc.com/products/6814329798846</id>
+      <title>2oz</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lnabeautyllc.com/products/6814329798846</id>
+      <title>4oz</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://lnabeautyllc.com/products/6814328357054</id>
+    <published>2021-07-04T19:04:52-05:00</published>
+    <updated>2021-07-04T19:04:52-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://lnabeautyllc.com/products/coconut-vanilla-whipped-body-butter"/>
+    <title>Coconut Vanilla Whipped Body Butter</title>
+    <s:type></s:type>
+    <s:vendor>LNA Beauty</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0331/5246/6989/products/98AA89B4-719D-4E3E-BF70-1BBD2683C12D.png?v=1625440046"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LNA Beauty<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1.50 - 9.00
+            <a href="https://lnabeautyllc.com/products/coconut-vanilla-whipped-body-butter">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Bath and Body Works Fragrance</p>
+<p>We also offer our squeeze tube whipped body butters on a separate listing, to avoid having to stick your fingers in the container and dig it out.  Also provides another step of sanitary  :-)</p>
+<p>We offer 4 sizes.  </p>
+<p>.7oz sample</p>
+<p>2oz container</p>
+<p>4 oz container</p>
+<p> </p>
+<div class="co8aDb XcVN5d" aria-level="3" role="heading"><b>Benefits of Body butters include:</b></div>
+<div class="RqBzHd">
+<ul class="i8Z77e">
+<li class="TrT0Xe">Moisturizes skin.</li>
+<li class="TrT0Xe">Forms a protective layer around the skin.</li>
+<li class="TrT0Xe">Reduces Wrinkles.</li>
+<li class="TrT0Xe">Helps soothe skin rashes, sunburn and eczema.</li>
+<li class="TrT0Xe">Contains <b>beneficial</b> antioxidants like vitamin C, E &amp; A.</li>
+<li class="TrT0Xe">Moisture eliminates any sign of dry, chapped skin and leaves skin feeling smooth and renewed.</li>
+</ul>
+</div>
+<p><span style="font-size: small;" size="2">Our body butters go a long ways with a small amount.  We recommend using as soon as you are out of the shower to allow the butters to soak in immediately.</span></p>
+<p><span style="font-size: small;" size="2">Ingredients consist of all organic products as follows:</span></p>
+<p><span style="font-size: small;" size="2">Shea Butter</span></p>
+<p><span style="font-size: small;" size="2">Jojoa Oil</span></p>
+<p><span style="font-size: small;" size="2">Vitamin E</span></p>
+<p><span style="font-size: small;" size="2">ArrowRoot</span></p>
+<p><span style="font-size: small;" size="2"><span>Apricot Kernnel</span></span></p>
+<p><span style="font-size: small;" size="2">Mica Powder</span></p>
+<p><span style="font-size: small;" size="2">Fragrance Oils</span></p>
+<p>Disclaimer***We suggest always start by using a patch test of our product on your arm in case of a reaction.  We do not recommend putting these products on your face, especially if you have acne prone skin, or sensitive skin.  </p>
+<p>LNA Beauty, LLC is not responsible for any reactions of our product.  Please beaware of all product ingredients that you are using to your own knowledge.  </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>body butter</s:tag>
+    <s:tag>body butters</s:tag>
+    <s:tag>whipped body butter</s:tag>
+    <s:variant>
+      <id>https://lnabeautyllc.com/products/6814328357054</id>
+      <title>.7oz sample</title>
+      <s:price currency="USD">1.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lnabeautyllc.com/products/6814328357054</id>
+      <title>2oz</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lnabeautyllc.com/products/6814328357054</id>
+      <title>4oz</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://lnabeautyllc.com/products/6814326653118</id>
+    <published>2021-07-04T19:04:51-05:00</published>
+    <updated>2021-07-04T19:04:51-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://lnabeautyllc.com/products/hawaiian-passion-fruit-whipped-body-butter"/>
+    <title>Hawaiian Passion Fruit Whipped Body Butter</title>
+    <s:type></s:type>
+    <s:vendor>LNA Beauty</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0331/5246/6989/products/3118803F-EBF6-48DA-BFCE-A077DD94E20A.jpg?v=1625439931"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LNA Beauty<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1.50 - 9.00
+            <a href="https://lnabeautyllc.com/products/hawaiian-passion-fruit-whipped-body-butter">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Bath and Body Works Fragrance</p>
+<p>We also offer our squeeze tube whipped body butters on a separate listing, to avoid having to stick your fingers in the container and dig it out.  Also provides another step of sanitary  :-)</p>
+<p>We offer 4 sizes.  </p>
+<p>.7oz sample</p>
+<p>2oz container</p>
+<p>4 oz container</p>
+<p> </p>
+<div class="co8aDb XcVN5d" aria-level="3" role="heading"><b>Benefits of Body butters include:</b></div>
+<div class="RqBzHd">
+<ul class="i8Z77e">
+<li class="TrT0Xe">Moisturizes skin.</li>
+<li class="TrT0Xe">Forms a protective layer around the skin.</li>
+<li class="TrT0Xe">Reduces Wrinkles.</li>
+<li class="TrT0Xe">Helps soothe skin rashes, sunburn and eczema.</li>
+<li class="TrT0Xe">Contains <b>beneficial</b> antioxidants like vitamin C, E &amp; A.</li>
+<li class="TrT0Xe">Moisture eliminates any sign of dry, chapped skin and leaves skin feeling smooth and renewed.</li>
+</ul>
+</div>
+<p><span style="font-size: small;" size="2">Our body butters go a long ways with a small amount.  We recommend using as soon as you are out of the shower to allow the butters to soak in immediately.</span></p>
+<p><span style="font-size: small;" size="2">Ingredients consist of all organic products as follows:</span></p>
+<p><span style="font-size: small;" size="2">Shea Butter</span></p>
+<p><span style="font-size: small;" size="2">Jojoa Oil</span></p>
+<p><span style="font-size: small;" size="2">Vitamin E</span></p>
+<p><span style="font-size: small;" size="2">ArrowRoot</span></p>
+<p><span style="font-size: small;" size="2"><span>Apricot Kernnel</span></span></p>
+<p><span style="font-size: small;" size="2">Mica Powder</span></p>
+<p><span style="font-size: small;" size="2">Fragrance Oils</span></p>
+<p>Disclaimer***We suggest always start by using a patch test of our product on your arm in case of a reaction.  We do not recommend putting these products on your face, especially if you have acne prone skin, or sensitive skin.  </p>
+<p>LNA Beauty, LLC is not responsible for any reactions of our product.  Please beaware of all product ingredients that you are using to your own knowledge.  </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>body butter</s:tag>
+    <s:tag>body butters</s:tag>
+    <s:tag>whipped body butter</s:tag>
+    <s:variant>
+      <id>https://lnabeautyllc.com/products/6814326653118</id>
+      <title>.7oz sample</title>
+      <s:price currency="USD">1.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lnabeautyllc.com/products/6814326653118</id>
+      <title>2oz</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lnabeautyllc.com/products/6814326653118</id>
+      <title>4oz</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://lnabeautyllc.com/products/6814325113022</id>
+    <published>2021-07-04T19:04:50-05:00</published>
+    <updated>2021-07-04T19:04:50-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://lnabeautyllc.com/products/hello-sweet-thang-whipped-body-butter"/>
+    <title>Hello Sweet Thang Whipped Body Butter</title>
+    <s:type></s:type>
+    <s:vendor>LNA Beauty</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0331/5246/6989/products/D6F7DB24-70AF-4E67-A339-D74960BAE3E6.png?v=1625439795"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LNA Beauty<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1.50 - 9.00
+            <a href="https://lnabeautyllc.com/products/hello-sweet-thang-whipped-body-butter">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Bath and Body Works Fragrance</p>
+<p>We also offer our squeeze tube whipped body butters on a separate listing, to avoid having to stick your fingers in the container and dig it out.  Also provides another step of sanitary  :-)</p>
+<p>We offer 4 sizes.  </p>
+<p>.7oz sample</p>
+<p>2oz container</p>
+<p>4 oz container</p>
+<p> </p>
+<div class="co8aDb XcVN5d" aria-level="3" role="heading"><b>Benefits of Body butters include:</b></div>
+<div class="RqBzHd">
+<ul class="i8Z77e">
+<li class="TrT0Xe">Moisturizes skin.</li>
+<li class="TrT0Xe">Forms a protective layer around the skin.</li>
+<li class="TrT0Xe">Reduces Wrinkles.</li>
+<li class="TrT0Xe">Helps soothe skin rashes, sunburn and eczema.</li>
+<li class="TrT0Xe">Contains <b>beneficial</b> antioxidants like vitamin C, E &amp; A.</li>
+<li class="TrT0Xe">Moisture eliminates any sign of dry, chapped skin and leaves skin feeling smooth and renewed.</li>
+</ul>
+</div>
+<p><span style="font-size: small;" size="2">Our body butters go a long ways with a small amount.  We recommend using as soon as you are out of the shower to allow the butters to soak in immediately.</span></p>
+<p><span style="font-size: small;" size="2">Ingredients consist of all organic products as follows:</span></p>
+<p><span style="font-size: small;" size="2">Shea Butter</span></p>
+<p><span style="font-size: small;" size="2">Jojoa Oil</span></p>
+<p><span style="font-size: small;" size="2">Vitamin E</span></p>
+<p><span style="font-size: small;" size="2">ArrowRoot</span></p>
+<p><span style="font-size: small;" size="2"><span>Apricot Kernnel</span></span></p>
+<p><span style="font-size: small;" size="2">Mica Powder</span></p>
+<p><span style="font-size: small;" size="2">Fragrance Oils</span></p>
+<p>Disclaimer***We suggest always start by using a patch test of our product on your arm in case of a reaction.  We do not recommend putting these products on your face, especially if you have acne prone skin, or sensitive skin.  </p>
+<p>LNA Beauty, LLC is not responsible for any reactions of our product.  Please beaware of all product ingredients that you are using to your own knowledge.  </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>body butter</s:tag>
+    <s:tag>body butters</s:tag>
+    <s:tag>whipped body butter</s:tag>
+    <s:variant>
+      <id>https://lnabeautyllc.com/products/6814325113022</id>
+      <title>.7oz sample</title>
+      <s:price currency="USD">1.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lnabeautyllc.com/products/6814325113022</id>
+      <title>2oz</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lnabeautyllc.com/products/6814325113022</id>
+      <title>4oz</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://lnabeautyllc.com/products/6814323671230</id>
+    <published>2021-07-04T19:04:49-05:00</published>
+    <updated>2021-07-04T19:04:49-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://lnabeautyllc.com/products/fruit-loop-whipped-body-butter"/>
+    <title>Fruit Loop Whipped Body Butter</title>
+    <s:type></s:type>
+    <s:vendor>LNA Beauty</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0331/5246/6989/products/1496B329-B93A-4D85-9901-C9D0B410FC6C.jpg?v=1625439705"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LNA Beauty<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1.50 - 9.00
+            <a href="https://lnabeautyllc.com/products/fruit-loop-whipped-body-butter">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><br></p>
+<p>We also offer our squeeze tube whipped body butters on a separate listing, to avoid having to stick your fingers in the container and dig it out.  Also provides another step of sanitary  :-)</p>
+<p>We offer 4 sizes.  </p>
+<p>.7oz sample</p>
+<p>2oz container</p>
+<p>4 oz container</p>
+<p> </p>
+<div class="co8aDb XcVN5d" aria-level="3" role="heading"><b>Benefits of Body butters include:</b></div>
+<div class="RqBzHd">
+<ul class="i8Z77e">
+<li class="TrT0Xe">Moisturizes skin.</li>
+<li class="TrT0Xe">Forms a protective layer around the skin.</li>
+<li class="TrT0Xe">Reduces Wrinkles.</li>
+<li class="TrT0Xe">Helps soothe skin rashes, sunburn and eczema.</li>
+<li class="TrT0Xe">Contains <b>beneficial</b> antioxidants like vitamin C, E &amp; A.</li>
+<li class="TrT0Xe">Moisture eliminates any sign of dry, chapped skin and leaves skin feeling smooth and renewed.</li>
+</ul>
+</div>
+<p><span style="font-size: small;" size="2">Our body butters go a long ways with a small amount.  We recommend using as soon as you are out of the shower to allow the butters to soak in immediately.</span></p>
+<p><span style="font-size: small;" size="2">Ingredients consist of all organic products as follows:</span></p>
+<p><span style="font-size: small;" size="2">Shea Butter</span></p>
+<p><span style="font-size: small;" size="2">Jojoa Oil</span></p>
+<p><span style="font-size: small;" size="2">Vitamin E</span></p>
+<p><span style="font-size: small;" size="2">ArrowRoot</span></p>
+<p><span style="font-size: small;" size="2"><span>Apricot Kernnel</span></span></p>
+<p><span style="font-size: small;" size="2">Mica Powder</span></p>
+<p><span style="font-size: small;" size="2">Fragrance Oils</span></p>
+<p>Disclaimer***We suggest always start by using a patch test of our product on your arm in case of a reaction.  We do not recommend putting these products on your face, especially if you have acne prone skin, or sensitive skin.  </p>
+<p>LNA Beauty, LLC is not responsible for any reactions of our product.  Please beaware of all product ingredients that you are using to your own knowledge.  </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>body butter</s:tag>
+    <s:tag>body butters</s:tag>
+    <s:tag>whipped body butter</s:tag>
+    <s:variant>
+      <id>https://lnabeautyllc.com/products/6814323671230</id>
+      <title>.7oz sample</title>
+      <s:price currency="USD">1.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lnabeautyllc.com/products/6814323671230</id>
+      <title>2oz</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lnabeautyllc.com/products/6814323671230</id>
+      <title>4oz</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://lnabeautyllc.com/products/6814321410238</id>
+    <published>2021-07-04T19:04:48-05:00</published>
+    <updated>2021-07-04T19:04:48-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://lnabeautyllc.com/products/coconut-lime-whipped-body-butter"/>
+    <title>Coconut Lime Whipped Body Butter</title>
+    <s:type></s:type>
+    <s:vendor>LNA Beauty</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0331/5246/6989/products/8CFDA05D-3EB1-4B93-BAAE-DE94347FCE5C.png?v=1625439613"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LNA Beauty<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1.50 - 9.00
+            <a href="https://lnabeautyllc.com/products/coconut-lime-whipped-body-butter">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This Love Spell fragrance is the fragrance from Victoria Secrets.</p>
+<p>We also offer our squeeze tube whipped body butters on a separate listing, to avoid having to stick your fingers in the container and dig it out.  Also provides another step of sanitary  :-)</p>
+<p>We offer 4 sizes.  </p>
+<p>.7oz sample</p>
+<p>2oz container</p>
+<p>4 oz container</p>
+<p> </p>
+<div class="co8aDb XcVN5d" aria-level="3" role="heading"><b>Benefits of Body butters include:</b></div>
+<div class="RqBzHd">
+<ul class="i8Z77e">
+<li class="TrT0Xe">Moisturizes skin.</li>
+<li class="TrT0Xe">Forms a protective layer around the skin.</li>
+<li class="TrT0Xe">Reduces Wrinkles.</li>
+<li class="TrT0Xe">Helps soothe skin rashes, sunburn and eczema.</li>
+<li class="TrT0Xe">Contains <b>beneficial</b> antioxidants like vitamin C, E &amp; A.</li>
+<li class="TrT0Xe">Moisture eliminates any sign of dry, chapped skin and leaves skin feeling smooth and renewed.</li>
+</ul>
+</div>
+<p><span style="font-size: small;" size="2">Our body butters go a long ways with a small amount.  We recommend using as soon as you are out of the shower to allow the butters to soak in immediately.</span></p>
+<p><span style="font-size: small;" size="2">Ingredients consist of all organic products as follows:</span></p>
+<p><span style="font-size: small;" size="2">Shea Butter</span></p>
+<p><span style="font-size: small;" size="2">Jojoa Oil</span></p>
+<p><span style="font-size: small;" size="2">Vitamin E</span></p>
+<p><span style="font-size: small;" size="2">ArrowRoot</span></p>
+<p><span style="font-size: small;" size="2"><span>Apricot Kernnel</span></span></p>
+<p><span style="font-size: small;" size="2">Mica Powder</span></p>
+<p><span style="font-size: small;" size="2">Fragrance Oils</span></p>
+<p>Disclaimer***We suggest always start by using a patch test of our product on your arm in case of a reaction.  We do not recommend putting these products on your face, especially if you have acne prone skin, or sensitive skin.  </p>
+<p>LNA Beauty, LLC is not responsible for any reactions of our product.  Please beaware of all product ingredients that you are using to your own knowledge.  </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>body butter</s:tag>
+    <s:tag>body butters</s:tag>
+    <s:tag>whipped body butter</s:tag>
+    <s:variant>
+      <id>https://lnabeautyllc.com/products/6814321410238</id>
+      <title>.7oz sample</title>
+      <s:price currency="USD">1.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lnabeautyllc.com/products/6814321410238</id>
+      <title>2oz</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lnabeautyllc.com/products/6814321410238</id>
+      <title>4oz</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://lnabeautyllc.com/products/6814247616702</id>
+    <published>2021-07-04T19:04:47-05:00</published>
+    <updated>2021-07-04T19:04:47-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://lnabeautyllc.com/products/love-spell-whipped-body-butter"/>
+    <title>Love Spell Whipped Body Butter</title>
+    <s:type></s:type>
+    <s:vendor>LNA Beauty</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0331/5246/6989/products/7E22B308-5103-48B6-9BA5-FCD0472B235D.png?v=1625438137"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LNA Beauty<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1.50 - 9.00
+            <a href="https://lnabeautyllc.com/products/love-spell-whipped-body-butter">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This Love Spell fragrance is the fragrance from Victoria Secrets.</p>
+<p>We also offer our squeeze tube whipped body butters on a separate listing, to avoid having to stick your fingers in the container and dig it out.  Also provides another step of sanitary  :-)</p>
+<p>We offer 4 sizes.  </p>
+<p>.7oz sample</p>
+<p>2oz container</p>
+<p>4 oz container</p>
+<p> </p>
+<div class="co8aDb XcVN5d" aria-level="3" role="heading"><b>Benefits of Body butters include:</b></div>
+<div class="RqBzHd">
+<ul class="i8Z77e">
+<li class="TrT0Xe">Moisturizes skin.</li>
+<li class="TrT0Xe">Forms a protective layer around the skin.</li>
+<li class="TrT0Xe">Reduces Wrinkles.</li>
+<li class="TrT0Xe">Helps soothe skin rashes, sunburn and eczema.</li>
+<li class="TrT0Xe">Contains <b>beneficial</b> antioxidants like vitamin C, E &amp; A.</li>
+<li class="TrT0Xe">Moisture eliminates any sign of dry, chapped skin and leaves skin feeling smooth and renewed.</li>
+</ul>
+</div>
+<p><span style="font-size: small;" size="2">Our body butters go a long ways with a small amount.  We recommend using as soon as you are out of the shower to allow the butters to soak in immediately.</span></p>
+<p><span style="font-size: small;" size="2">Ingredients consist of all organic products as follows:</span></p>
+<p><span style="font-size: small;" size="2">Shea Butter</span></p>
+<p><span style="font-size: small;" size="2">Jojoa Oil</span></p>
+<p><span style="font-size: small;" size="2">Vitamin E</span></p>
+<p><span style="font-size: small;" size="2">ArrowRoot</span></p>
+<p><span style="font-size: small;" size="2"><span>Apricot Kernnel</span></span></p>
+<p><span style="font-size: small;" size="2">Mica Powder</span></p>
+<p><span style="font-size: small;" size="2">Fragrance Oils</span></p>
+<p>Disclaimer***We suggest always start by using a patch test of our product on your arm in case of a reaction.  We do not recommend putting these products on your face, especially if you have acne prone skin, or sensitive skin.  </p>
+<p>LNA Beauty, LLC is not responsible for any reactions of our product.  Please beaware of all product ingredients that you are using to your own knowledge.  </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>body butter</s:tag>
+    <s:tag>body butters</s:tag>
+    <s:tag>whipped body butter</s:tag>
+    <s:variant>
+      <id>https://lnabeautyllc.com/products/6814247616702</id>
+      <title>.7oz sample</title>
+      <s:price currency="USD">1.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lnabeautyllc.com/products/6814247616702</id>
+      <title>2oz</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lnabeautyllc.com/products/6814247616702</id>
+      <title>4oz</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://lnabeautyllc.com/products/6814244012222</id>
+    <published>2021-07-04T19:04:46-05:00</published>
+    <updated>2021-07-04T19:04:46-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://lnabeautyllc.com/products/whipped-body-butter-samples"/>
+    <title>Whipped Body Butter Samples</title>
+    <s:type></s:type>
+    <s:vendor>LNA Beauty</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0331/5246/6989/products/E07BA1E2-AC69-41A7-9DBF-843919707B15.png?v=1625437425"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LNA Beauty<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our sample pack comes with 7 different fragrances that we offer. Each containers are 20ml/ .7oz</p>
+<p>Set will include the following fragrances</p>
+<p>1-Eucalyptus with spearmint </p>
+<p>1-Love Spell</p>
+<p>1-Coconut Lime</p>
+<p>1-Fruit Loop</p>
+<p>1-Hello Sweet Thang</p>
+<p>1- Hawain Passion Fruit</p>
+<p>1-<span size="2" style="font-size: small;"> Coconut Vanilla</span></p>
+<div role="heading" aria-level="3" class="co8aDb XcVN5d"><b>Benefits of Body butters include:</b></div>
+<div class="RqBzHd">
+<ul class="i8Z77e">
+<li class="TrT0Xe">Moisturizes skin.</li>
+<li class="TrT0Xe">Forms a protective layer around the skin.</li>
+<li class="TrT0Xe">Reduces Wrinkles.</li>
+<li class="TrT0Xe">Helps soothe skin rashes, sunburn and eczema.</li>
+<li class="TrT0Xe">Contains <b>beneficial</b> antioxidants like vitamin C, E &amp; A.</li>
+<li class="TrT0Xe">Moisture eliminates any sign of dry, chapped skin and leaves skin feeling smooth and renewed.</li>
+</ul>
+</div>
+<p><span size="2" style="font-size: small;">Our body butters go a long ways with a small amount.  We recommend using as soon as you are out of the shower to allow the butters to soak in immediately.</span></p>
+<p><span size="2" style="font-size: small;">Ingredients consist of all organic products as follows:</span></p>
+<p><span size="2" style="font-size: small;">Shea Butter</span></p>
+<p><span size="2" style="font-size: small;">Jojoa Oil</span></p>
+<p><span size="2" style="font-size: small;">Vitamin E</span></p>
+<p><span size="2" style="font-size: small;">ArrowRoot</span></p>
+<p><span size="2" style="font-size: small;"><span>Apricot Kernnel</span></span></p>
+<p><span size="2" style="font-size: small;">Mica Powder</span></p>
+<p><span size="2" style="font-size: small;">Fragrance Oils</span></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>body butter</s:tag>
+    <s:tag>body butters</s:tag>
+    <s:tag>whipped body butter</s:tag>
+    <s:variant>
+      <id>https://lnabeautyllc.com/products/6814244012222</id>
+      <title>Default Title</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>
